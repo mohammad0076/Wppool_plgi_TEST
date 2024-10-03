@@ -1,7 +1,7 @@
 node_modules/
 #test-results/
 assets
-features
+#features
 cucumber-report.html
 @rerun.txt
 index.html
